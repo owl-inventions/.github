@@ -4,7 +4,7 @@ In my free time, I maintain a large number of side projects. This abstraction as
 
 ### Contains
 
-- Personel Homepage (Next.JS, React)
+- TDD driven personel homepage (Next.JS, Jest, Cypress, React)
 - reusbale GitHub actions for CI/CD-integrations
 - keycloak teraform (IDP for secret project)
 - Stretch Tracker 2.0 (Next.JS, React)
