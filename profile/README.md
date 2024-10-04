@@ -4,8 +4,8 @@ In my free time, I maintain a large number of side projects. This abstraction as
 
 ### Contains
 
-- kubeernetes-terraform to deploy k3s on top of HCloud
-- TDD driven personel homepage (Next.JS, Jest, Cypress, React)
+- kubernetes-terraform to deploy k3s on top of HCloud
+- personel homepage (Next.JS, Jest, Cypress, React)
 - reusable GitHub actions for CI/CD-integrations
 - keycloak teraform (IDP for secret project)
 - Stretch Tracker 2.0 (Next.JS, React)
