@@ -5,10 +5,10 @@ In my free time, I maintain a large number of side projects. This abstraction as
 ### Contains
 
 - kubernetes-terraform to deploy k3s on top of HCloud
-- personel homepage (Next.JS, Jest, Cypress, React)
-- reusable GitHub actions for CI/CD-integrations
+- personal homepage (Next.JS, Jest, Cypress, React)
+- reusable GitHub actions for CI/CD-integrations to K3S and AWS mostly S3 and Cloudfront for some fronts
 - keycloak teraform (IDP for secret project)
-- Stretch Tracker 2.0 (Next.JS, React)
+- Stretch Tracker
   - 📚 https://jnhssg.de/blog/2023-12-28
 - Advent Calendar 2023
   - 📚 https://jnhssg.de/blog/2023-12-01
