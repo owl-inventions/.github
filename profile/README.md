@@ -14,5 +14,5 @@ In my free time, I maintain a large number of side projects. This abstraction as
   - 📚 https://jnhssg.de/blog/2023-12-01
 - [Likedeeler-Blog](https://jugger-rostock.de) (Vue, Strapi, Cloudfront, S3)
   - 📚 https://jnhssg.de/blog/2024-09-08
-- Advent Calendar 2023 (Vue.js, Apollo Server - GraphQL, Cloudfront, S3, K3s)
+- ✨ Advent Calendar 2024 (Vue.js, Apollo Server - GraphQL, Cloudfront, S3, K3s)
   - 📚 https://jnhssg.de/blog/2024-12-23
