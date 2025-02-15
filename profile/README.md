@@ -8,7 +8,7 @@ See ya,
 ### Content-Bits
 
 - kubernetes-terraform to deploy k3s on top of HCloud
-- personal homepage (Next.JS, Jest, Cypress, React)
+- [Personal Blog](https://jnhssg.de) (Next.js, React, K3s)
 - reusable GitHub actions for CI/CD-integrations to K3S and AWS mostly S3 and Cloudfront for some fronts
 - keycloak teraform (IDP for secret project)
 - Stretch Tracker
@@ -19,5 +19,5 @@ See ya,
   - 📚 https://jnhssg.de/blog/2024-09-08
 - Advent Calendar 2024 (Vue.js, Apollo Server - GraphQL, Cloudfront, S3, K3s)
   - 📚 https://jnhssg.de/blog/2024-12-23
-- ✨ [Canoe Polo in Rostock](https://kanupolo-in-rostock.de) (Next.js, Strapi, K3s)
+- ✨ [Canoe Polo in Rostock](https://kanupolo-in-rostock.de) (Next.js, React, Strapi, K3s)
   - 📚 https://jnhssg.de/blog/2025-02-04
