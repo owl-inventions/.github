@@ -19,5 +19,7 @@ See ya,
   - 📚 https://jnhssg.de/blog/2024-09-08
 - Advent Calendar 2024 (Vue.js, Apollo Server - GraphQL, Cloudfront, S3, K3s)
   - 📚 https://jnhssg.de/blog/2024-12-23
-- ✨ [Canoe Polo in Rostock](https://kanupolo-in-rostock.de) (Next.js, React, Strapi, K3s)
+- [Canoe Polo in Rostock](https://kanupolo-in-rostock.de) (Next.js, React, Strapi, K3s)
   - 📚 https://jnhssg.de/blog/2025-02-04
+- 🆕 Advent Calendar 2025 (Vue.js, Apollo Server - GraphQL, Cloudfront, S3, K3s)
+  - 📚 [https://jnhssg.de/blog/2024-12-23](https://jnhssg.de/blog/2025-12-23)
